@@ -1,5 +1,7 @@
 # Conway's Game of Life
 
+![GameOfLife](https://static.wikia.nocookie.net/emergentuniverse/images/d/d0/Game_of_life_animated_glider_2.gif/revision/latest/scale-to-width-down/287?cb=20120305021401)
+
 Conway's Game of Life consists of a virtual environment where "cells" (represented by coloured dots in the screen) are born and cease to live, following the evolution of these individuals across "generations" (iterations or cycles of the system). The game, designed by John Horton Conway in 1970, follows three simple rules:
 
 ```
